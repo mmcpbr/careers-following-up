@@ -31,7 +31,7 @@ As mentioned in previous lessons, this helps you remember the key points you dis
  
 If an interviewer doesn’t give you their business card (or says they don’t have any), don’t think that’s an excuse not to send a follow up note. It’s pretty common in the tech industry for people not to have business cards. 
 - Reference a business card of another person at the company to figure out their email address format (for example- firstname@company.com).
-- This [link](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can also give you tips of that doesn't work
+- This [link](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can also give you tips if that doesn't work
 - You could also ask your main point of contact at the company (likely someone in HR) for the emails of your other interviewers.You can explain that you’d like your interviewer’s email so that you can follow up with them, and politely ask to make sure that’s ok. 
 
  
@@ -39,13 +39,13 @@ Your follow-up note must address the following points:
 
 - Thanks the interviewer for their time.
 - Mentions specific points that were addressed during the interview (this demonstrates you were listening and are invested in this role and company).
-- Emphasizes what you can contribute based on the conversation
+- Emphasizes what you can contribute based on the conversation.
 - Mentions the company specifically by name somewhere in the note (not “you” or “your company” or “the company”).
-- Indicates your interest and excitement for the job and your desire for future conversations
+- Indicates your interest and excitement for the job and your desire for future conversations.
 - Contains your phone number in the closing of the note.
 - Optionally, your note may also address the following points: 
 - Perhaps mention specific technologies you have studied/used that the company uses.
-- Contains a blog post you wrote that you think the employer would appreciate and is in some way tied to the conversation you had with them
+- Contains a blog post you wrote that you think the employer would appreciate and is in some way tied to the conversation you had with them.
 - If when answering a technical question the interviewer tells you you answered something wrong, this is your chance to redeem yourself. Explain what you would have done differently, clarify what you meant to say and/or write a blog post about that specific topic and include it in the note. This shows your commitment to excellence, your desire for the job and directly reflects how you would act in a real work setting. 
 
 ## Examples of Good Follow Up Notes
@@ -86,7 +86,7 @@ Your follow-up note must address the following points:
 --------
 
 
-*The example below is extremely enthusiastic and detailed about the interview process. Melina is telling Alyson (the tech recruiter) about her experiences in today’s interview and also indicated some specific details following the coffee meeting she had with alyson at the end of the day.*
+*The example below is extremely enthusiastic and detailed about the interview process. Melina is telling Alyson (the tech recruiter) about her experiences in today’s interview and also indicated some specific details following the coffee meeting she had with Alyson at the end of the day.*
 
 >Hi Alyson,
 					
